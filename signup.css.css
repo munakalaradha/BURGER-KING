@@ -1,0 +1,75 @@
+header{
+    height: 20px;
+    margin: 0px;
+    padding: 0px;
+    background-image: linear-gradient(139deg, #fb8817, #ff4b01, #c12127, #e02aff);
+    width:100%
+}
+
+#form{
+    width: 400px;;
+    margin:60px auto;
+    border-radius: 10px;
+    padding:20px 40px 30px;
+    background-color:white;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.demo{
+    width: 100%;
+    border-radius: 4px;
+    padding:8px;
+    border:1px solid lightgray;
+    
+}
+.demo:hover{
+    border: 1px solid #0000ff9a;
+    outline: 1px solid rgba(128, 128, 128, 0.201);
+    
+}
+h1{
+    color:black
+}
+.para{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.paragraph{
+    color:rgba(0, 0, 0, 0.55)
+}
+.demo1{
+    width: 100%;
+    border-radius: 3px;
+    padding:15px;
+    border: 2px solid #17161673;
+    margin-top: 20px;
+    color:#1c1b1b;
+    text-transform: capitalize;
+
+}
+.demo2{
+    margin-left: 250px;
+    text-align: center;
+}
+a{
+    color: black;
+    
+}
+#footer{
+    width: 400px;;
+    margin:60px auto;
+    border-radius: 10px;
+    padding:20px 40px 30px;
+    background-color:white;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    
+}
+#footer p{
+    text-align: center;
+    color: black;
+    font-family: cursive;
+}
+#footer a{
+   padding-left: 160px;
+   color:blue;
+   font-family: cursive;
+}
